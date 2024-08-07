@@ -1,0 +1,15 @@
+{
+  "name": "@mahdi.golzar/csrfguard",
+  "version": "1.0.0",
+  "description": "csrfGuard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csrfGuard",
+    "csrf"
+  ],
+  "author": "mahdi.golzar",
+  "license": "ISC"
+}
